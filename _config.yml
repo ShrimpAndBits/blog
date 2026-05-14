@@ -1,0 +1,23 @@
+title: Shrimp & Bits
+email:
+description: >-
+  Archived posts from shrimpnbits.wordpress.com, rebuilt as a Jekyll site.
+author: T3h Pr0wn
+baseurl: ""
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: classic
+
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
