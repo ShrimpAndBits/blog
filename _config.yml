@@ -3,7 +3,7 @@ email:
 description: >-
   Archived posts from shrimpnbits.wordpress.com, rebuilt as a Jekyll site.
 author: T3h Pr0wn
-baseurl: ""
+baseurl: "/blog"
 url: ""
 
 theme: minima
